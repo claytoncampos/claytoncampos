@@ -29,6 +29,9 @@ Estudando para se tornar Full Stack
 - Lógica de Programação 14Hrs (SENAI)
 
 ---
+#### [My Blog](https://simple-blog-nextjs.claytoncampos.vercel.app/)
+---
+
 #### Made with 💜 by Clayton :wave: [Get in touch!](https://www.linkedin.com/in/clayton-almeida-campos-198732176/)
 
 
