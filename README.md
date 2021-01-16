@@ -30,7 +30,10 @@ Estudando para se tornar Full Stack
 - Scrum Foundation SFPC - (CertiProf) 
 - Lógica de Programação 14Hrs (SENAI)
 
+### Cursando 
 ---
+- Bootcamp Node.js Web Developer 120 Hrs (DIO)
+
 #### [My Blog](https://simple-blog-nextjs.claytoncampos.vercel.app/)
 ---
 
