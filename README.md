@@ -25,6 +25,8 @@ Estudando para se tornar Full Stack
 - Web Moderno 2020 - 87,5 Hrs (Udemy)
 - Bootcamp React Web Developer - 80 Hrs (DIO)
 - Bootcamp HTML Web Developer - 27 Hrs (DIO)
+- Bootcamp Avanade Decola Dev 2021 - 85 Hrs (DIO)
+- Bootcamp GFT START_UNI 2021 - 46 Hrs (DIO)
 - Scrum Foundation SFPC - (CertiProf) 
 - Lógica de Programação 14Hrs (SENAI)
 
