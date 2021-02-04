@@ -16,7 +16,7 @@ Estudando para se tornar Full Stack
 ### Sobre mim
 ---
 - 💻 Trabalhando com Js, Html, Css, Next Js and React Js
-- 📚 Estudando Elixir, Node, React, React Native, MongoDB, PostgreSQL
+- 📚 Estudando Node, React, React Native, MongoDB, PostgreSQL, GraphQL
 - 💜 Apaixonado por programação e tecnologia, ajudando os outros dev's da melhor forma possível
 
 ### Cursos Concluidos (Certificados)
@@ -27,6 +27,7 @@ Estudando para se tornar Full Stack
 - Bootcamp HTML Web Developer - 27 Hrs (DIO)
 - Bootcamp Avanade Decola Dev 2021 - 85 Hrs (DIO)
 - Bootcamp GFT START_UNI 2021 - 46 Hrs (DIO)
+- Bootcamp SPTech Desenvolvimento Front-end 82Hrs (DIO)
 - Scrum Foundation SFPC - (CertiProf) 
 - Lógica de Programação 14Hrs (SENAI)
 
