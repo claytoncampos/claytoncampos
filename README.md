@@ -16,7 +16,7 @@ Estudando para se tornar Full Stack
 ### Sobre mim
 ---
 - 💻 Trabalhando com Js, Html, Css, Next Js and React Js
-- 📚 Estudando Node, React, React Native, MongoDB, PostgreSQL, GraphQL
+- 📚 Estudando  TypeScript, Node, React, React Native, MongoDB, PostgreSQL, GraphQL
 - 💜 Apaixonado por programação e tecnologia, ajudando os outros dev's da melhor forma possível
 
 ### Cursos Concluidos (Certificados)
