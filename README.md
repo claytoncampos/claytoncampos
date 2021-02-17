@@ -9,7 +9,7 @@
 
 ### Hello world, I'm Clayton 
 ---
-Front-End Developer | Programador Jr :robot:.
+Front-End Developer  :robot:.
 
 Estudando para se tornar Full Stack
 
