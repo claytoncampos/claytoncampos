@@ -21,6 +21,7 @@ Estudando para se tornar Full Stack
 
 ### Cursos Concluidos (Certificados)
 ---
+- Design Thinking – 40hrs (FIAP)
 - User Experience – 60hrs (FIAP)
 - Estação Hack Facebook - Front End Coding - 105 Hrs (Digital House)
 - Web Moderno 2020 - 87,5 Hrs (Udemy)
