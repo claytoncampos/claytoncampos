@@ -21,11 +21,15 @@ Estudando para se tornar Full Stack
 
 ### Cursos Concluidos (Certificados)
 ---
+- Bootcamp SPTesch Dessenvolvimento FullStack 109 Hrs (DIO)
+- DevOps Essentials (4Linux)
+- Linux Beginners in Clound (4Linx)
 - Customer Experience – 40hrs (FIAP)
 - Design Thinking – 40hrs (FIAP)
 - User Experience – 60hrs (FIAP)
 - Estação Hack Facebook - Front End Coding - 105 Hrs (Digital House)
 - Web Moderno 2020 - 87,5 Hrs (Udemy)
+- Web Developer 120 Hrs (DIO)
 - Bootcamp React Web Developer - 80 Hrs (DIO)
 - Bootcamp HTML Web Developer - 27 Hrs (DIO)
 - Bootcamp Avanade Decola Dev 2021 - 85 Hrs (DIO)
@@ -36,7 +40,7 @@ Estudando para se tornar Full Stack
 
 ### Cursando 
 ---
-- Bootcamp Node.js Web Developer 120 Hrs (DIO)
+- Bootcamp Node.js 
 
 #### [My Blog](https://simple-blog-nextjs.claytoncampos.vercel.app/)
 ---
