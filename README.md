@@ -39,14 +39,20 @@ Estudando para se tornar Full Stack
 - Lógica de Programação 14Hrs (SENAI)
 
 ### Cursando 
----
-- Bootcamp Node.js 
 
+- Análise e Desnvolvimento de Sistemas (UNG)
+---
+- ### Certificações [credly](https://www.credly.com/users/clayton-campos)
+AZ900 | SFPC | LDPDF | KEPC |RWVCPC | 
+---
 #### [My Blog](https://simple-blog-nextjs.claytoncampos.vercel.app/)
 #### [Portfolio](https://claytoncampos.netlify.app/)
+#### [Site](https://claytoncampos.netlify.app/)
 ---
 
 #### Made with 💜 by Clayton :wave: [Get in touch!](https://www.linkedin.com/in/clayton-almeida-campos-198732176/)
+
+ 
 
 
 
