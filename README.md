@@ -43,7 +43,7 @@ Estudando para se tornar Full Stack
 - Análise e Desnvolvimento de Sistemas (UNG)
 ---
 - ### Certificações [credly](https://www.credly.com/users/clayton-campos)
-AZ900 | SFPC | LDPDF | KEPC |RWVCPC | 
+AZ900 | SFPC | LGPDF | KEPC |RWVCPC | 
 ---
 #### [My Blog](https://simple-blog-nextjs.claytoncampos.vercel.app/)
 #### [Portfolio](https://claytoncampos.netlify.app/)
