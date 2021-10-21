@@ -3,7 +3,7 @@
 
 <img align="right" width="400" height="400" src="https://miro.medium.com/max/680/1*VON9gHTrzeHZbHfXsqfzEA.gif">
 
-  <a href="https://www.linkedin.com/in/clayton-almeida-campos-198732176/">
+  <a href="https://www.linkedin.com/in/claytoncampos">
     <img alt="Made by ClaytonCampos" src="https://img.shields.io/badge/made%20by-ClaytonCampos-%2304D361">
   </a>
 
@@ -50,7 +50,7 @@ AZ900 | SFPC | LGPDF | KEPC |RWVCPC |
 #### [Site](https://claytoncampos.netlify.app/)
 ---
 
-#### Made with 💜 by Clayton :wave: [Get in touch!](https://www.linkedin.com/in/clayton-almeida-campos-198732176/)
+#### Made with 💜 by Clayton :wave: [Get in touch!](https://www.linkedin.com/in/claytoncampos)
 
  
 
