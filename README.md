@@ -40,7 +40,7 @@ Sou Estudante de ADS e Engenharia de dados.
 ##### DIGITAL INNOVATION ONE - 2021/2022
 
 <b>Formação Data Engineer </b></br>
-Formação imersiva através de aulas com experts, desafios online de código, projetos práticos de mercado e mentoria com experts das empresas mais inovadoras do Mercado.
+Formação imersiva através de aulas com experts, desafios online de código, projetos práticos de mercado e mentoria com experts das empresas mais inovadoras do Mercado.</br></br>
 Tecnologias e conceitos abordados:
 Orquestrando ambientes de Big Data com Zookeeper, Yarn e Sqoop, Monitoramento de clusters Hadoop, consultas com Hive e Impala, Processamento de forma paralela e distribuída com Spark, Criação de pipelines de dados com Spark e Python, SQL, Banco de dados Cassandra, Mongodb, PostgreSQL, Mensageria na Nuvem Com Kafka, Ecossistema de Big Data na Nuvem, Google Cloud Dataproc, Azure e AWS.
 
