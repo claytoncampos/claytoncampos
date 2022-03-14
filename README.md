@@ -19,6 +19,14 @@ Profissional experiente em programação, atualmente trabalhando como Developer 
 Com engenharia de dados, sustentação do ambiente de Big Data, ecossistema Hadoop e suas ferramentas.</br>
 Sou Estudante de ADS e Engenharia de dados.
 
+ - ETL/ELT
+ - SPARK/PySpark
+ - DATABRICKS
+ - SQL/NoSQL
+ - DW/DL
+ - BIG DATA/HADOOP
+ - AUTOMAÇÂO
+
 #### Atividades realizadas:
 
 - Sustentação do Ambiente de BIG Data.
