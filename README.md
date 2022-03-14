@@ -12,10 +12,7 @@
 - Developer Analyst
 
 ## Sobre mim
-
----
-
-Profissional experiente em programação,ex Developer Front End, atualmente trabalhando como Developer Analyst/Data Enginner, Sustentação do ambiente de Big Data, ecossistema Hadoop e suas ferramentas.</br>
+Ex Desenvolvedor Front End</br>
 Sou Estudante de ADS e Engenharia de Dados.
 
  - ETL/ELT
@@ -25,6 +22,10 @@ Sou Estudante de ADS e Engenharia de Dados.
  - DW/DL
  - BIG DATA/HADOOP
  - AUTOMAÇÂO / ShellScript / Python /Linux
+
+---
+
+Profissional experiente em programação,ex Developer Front End, atualmente trabalhando como Developer Analyst/Data Enginner, Sustentação do ambiente de Big Data, ecossistema Hadoop e suas ferramentas.</br>
 
 #### Atividades realizadas:
 
