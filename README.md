@@ -15,9 +15,8 @@
 
 ---
 
-Profissional experiente em programação, atualmente trabalhando como Developer Analyst -
-Com engenharia de dados, sustentação do ambiente de Big Data, ecossistema Hadoop e suas ferramentas.</br>
-Sou Estudante de ADS e Engenharia de dados.
+Profissional experiente em programação,ex Developer Front End, atualmente trabalhando como Developer Analyst/Data Enginner, Sustentação do ambiente de Big Data, ecossistema Hadoop e suas ferramentas.</br>
+Sou Estudante de ADS e Engenharia de Dados.
 
  - ETL/ELT
  - SPARK/PySpark
@@ -25,7 +24,7 @@ Sou Estudante de ADS e Engenharia de dados.
  - SQL/NoSQL
  - DW/DL
  - BIG DATA/HADOOP
- - AUTOMAÇÂO
+ - AUTOMAÇÂO / ShellScript / Python /Linux
 
 #### Atividades realizadas:
 
