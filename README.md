@@ -12,16 +12,17 @@
 - Developer Analyst
 
 ## Sobre mim
+
 Ex Desenvolvedor Front End</br>
 Sou Estudante de ADS e Engenharia de Dados.
 
- - ETL/ELT
- - SPARK/PySpark
- - DATABRICKS
- - SQL/NoSQL
- - DW/DL
- - BIG DATA/HADOOP
- - AUTOMAÇÂO / ShellScript / Python /Linux
+- ETL/ELT
+- SPARK/PySpark
+- DATABRICKS
+- SQL/NoSQL
+- DW/DL
+- BIG DATA/HADOOP
+- AUTOMAÇÂO / ShellScript / Python /Linux
 
 ---
 
@@ -52,15 +53,16 @@ Formação imersiva através de aulas com experts, desafios online de código, p
 Tecnologias e conceitos abordados:
 Orquestrando ambientes de Big Data com Zookeeper, Yarn e Sqoop, Monitoramento de clusters Hadoop, consultas com Hive e Impala, Processamento de forma paralela e distribuída com Spark, Criação de pipelines de dados com Spark e Python, SQL, Banco de dados Cassandra, Mongodb, PostgreSQL, Mensageria na Nuvem Com Kafka, Ecossistema de Big Data na Nuvem, Google Cloud Dataproc, Azure e AWS.
 
-    1. Bootcamp Banco Carrefour Data Engineer (114h)
-    2. Bootcamp Cognizant Cloud Data Engineer (100h)
-    3. Aceleração Global Dev #11 Cognizant (11h)
-    4. Aceleração Global Dev #14 Cognizant (7h)
-    5. Monitoramento de clusters Hadoop de alto nível com HDFS e YARN (4h)
-    6. Orquestrando ambientes de Big Data distribuídos com Zookeeper, Yarn e Sqoop(4h)
-    7. Explorando o poder do NoSQL com Cassandra e HBase (4h)
-    8. Orquestrando Big Data em Ambiente de Nuvem (2h)
-    9. Introdução a mensageria na Azure  (2hrs)
+    1. Bootcamp Cognizant Cloud Data Engineer (91h)
+    2. Bootcamp Banco Carrefour Data Engineer (114h)
+    3. Bootcamp Cognizant Cloud Data Engineer (100h)
+    4. Aceleração Global Dev #11 Cognizant (11h)
+    5. Aceleração Global Dev #14 Cognizant (7h)
+    6. Monitoramento de clusters Hadoop de alto nível com HDFS e YARN (4h)
+    7. Orquestrando ambientes de Big Data distribuídos com Zookeeper, Yarn e Sqoop(4h)
+    8. Explorando o poder do NoSQL com Cassandra e HBase (4h)
+    9. Orquestrando Big Data em Ambiente de Nuvem (2h)
+    10. Introdução a mensageria na Azure  (2hrs)
 
 ##### DIGITAL INNOVATION ONE - 2020/2022
 
