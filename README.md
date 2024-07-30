@@ -117,7 +117,7 @@ Desenvolvimento Web com ReactJs, JavaScritpt(ES6), TypeScript, HTML5, CSS, Jquer
 
 ---
 
-#### [Linkedin](https://www.linkedin.com/in/claytoncampos) |[ Blog](https://simple-blog-nextjs.claytoncampos.vercel.app/) | [Portfolio](https://claytoncampos.netlify.app/) | [Site](https://claytoncampos.netlify.app/) | [Certificações](https://www.credly.com/users/clayton-campos) | [E-Mail](mailto:clayton.almeida.campos@gmail.com)
+#### [Linkedin](https://www.linkedin.com/in/claytoncampos) |[ Blog](https://simple-blog-nextjs.claytoncampos.vercel.app/) | [Portfolio](https://claycampos.netlify.app/) | [Site](https://claytoncampos.netlify.app/) | [Certificações](https://www.credly.com/users/clayton-campos) | [E-Mail](mailto:clayton.almeida.campos@gmail.com)
 
 ---
 
